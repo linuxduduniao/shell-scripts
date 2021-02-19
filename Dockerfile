@@ -1,1 +1,3 @@
-FROM gcr.io/k8s-testimages/probes:latest
+FROM linuxduduniao/nginx:v1.0.3
+EXPOSE 8080
+
